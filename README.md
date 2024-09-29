@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 # 💫 About Me:
-I am an AI developer. I am currently working on full stack AI projects , which uses LLMs and AI  agents to solve real world use cases.<br>I am currently learning to fine tune LLMs according to particular use cases. I have a good grasp  on MLOPS and CI/CD pipelined . I am currently exploring autonomous fine tuning of LLMs on one click
+I am an AI developer. I am currently working on full stack AI projects , which uses LLMs and AI agents to solve real world use cases.<br>I am currently learning to fine tune LLMs according to particular use cases. I have a good grasp on MLOPS and CI/CD pipelined . I am currently exploring autonomous fine tuning of LLMs on one click.
 
 
 ## 🌐 Socials:
