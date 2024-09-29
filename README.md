@@ -2,7 +2,7 @@
 I am an AI developer. I am currently working on full stack AI projects , which uses LLMs and AI agents to solve real world use cases.<br>I am currently learning to fine tune LLMs according to particular use cases. I have a good grasp on MLOPS and CI/CD pipelined . I am currently exploring autonomous fine tuning of LLMs on one click.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kumar-baghel) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ I am an AI developer. I am currently working on full stack AI projects , which u
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryankb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryankb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
